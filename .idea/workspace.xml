@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente.java" afterDir="false" />
+    </list>
+=======
+    <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
+>>>>>>> classe-cliente
+>>>>>>> 71870c6399a1d3606f4469605a9253b70cf96d4a
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2MkRaP8SGYSyCLacjM6WRyjQCZ4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +44,15 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+<<<<<<< HEAD
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Área de Trabalho/AULAS Germinaretech/Pasta Git/branches/git-branches&quot;,
+=======
+<<<<<<< HEAD
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Área de Trabalho/AULAS Germinaretech/Pasta Git/branches/git-branches&quot;,
+=======
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Anotações Aulas/Programação Orientada a Objetos/02-08 Aula Git/Branches/ClasseCliente/Git-Branches&quot;,
+>>>>>>> classe-cliente
+>>>>>>> 71870c6399a1d3606f4469605a9253b70cf96d4a
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -43,6 +65,13 @@
       <option name="presentableId" value="Default" />
       <updated>1678309657093</updated>
       <workItem from="1678309658215" duration="43000" />
+<<<<<<< HEAD
+      <workItem from="1678313595359" duration="5000" />
+      <workItem from="1678314631509" duration="69000" />
+=======
+      <workItem from="1678310822494" duration="553000" />
+      <workItem from="1678315056754" duration="10000" />
+>>>>>>> classe-cliente
     </task>
     <servers />
   </component>
