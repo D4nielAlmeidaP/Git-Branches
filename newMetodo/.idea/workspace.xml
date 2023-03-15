@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90ebe391-cfbd-41ba-a4ee-cbc3814fe853" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2MkRaP8SGYSyCLacjM6WRyjQCZ4" />
+  <component name="ProjectId" id="2MnAj9NsVbIsnDZoHJhSH3cyPa9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,23 +23,23 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Anotações Aulas/Programação Orientada a Objetos/02-08 Aula Git/Branches/ClasseCliente/Git-Branches&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
-      <created>1678309657093</created>
+      <changelist id="90ebe391-cfbd-41ba-a4ee-cbc3814fe853" name="Changes" comment="" />
+      <created>1678393104601</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678309657093</updated>
-      <workItem from="1678309658215" duration="43000" />
-      <workItem from="1678310822494" duration="553000" />
-      <workItem from="1678315056754" duration="10000" />
-      <workItem from="1678917782289" duration="12000" />
-      <workItem from="1678917866282" duration="41000" />
+      <updated>1678393104601</updated>
+      <workItem from="1678393105694" duration="25000" />
+      <workItem from="1678393468570" duration="42000" />
+      <workItem from="1678393520744" duration="50000" />
+      <workItem from="1678393583941" duration="34000" />
+      <workItem from="1678393621049" duration="2000" />
+      <workItem from="1678393629234" duration="9000" />
     </task>
     <servers />
   </component>
