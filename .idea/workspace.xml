@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+    <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
+=======
+>>>>>>> 2e5ac211bb39242247b95e08136719308f5ffd70
+<<<<<<< HEAD
     <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cliente.java" afterDir="false" />
@@ -13,11 +18,15 @@
 =======
     <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
 >>>>>>> classe-cliente
+<<<<<<< HEAD
 =======
     <list default="true" id="d58038cc-48f4-4107-9639-8e17894aedd2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
 >>>>>>> classe-cliente
+=======
+>>>>>>> 71870c6399a1d3606f4469605a9253b70cf96d4a
+>>>>>>> 2e5ac211bb39242247b95e08136719308f5ffd70
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +58,9 @@
 <<<<<<< HEAD
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Área de Trabalho/AULAS Germinaretech/Pasta Git/branches/git-branches&quot;,
 =======
+<<<<<<< HEAD
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Área de Trabalho/AULAS Germinaretech/Pasta Git/branches/git-branches&quot;,
+=======
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Anotações Aulas/Programação Orientada a Objetos/02-08 Aula Git/Branches/ClasseCliente/Git-Branches&quot;,
 <<<<<<< HEAD
 >>>>>>> classe-cliente
@@ -58,6 +70,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
 >>>>>>> classe-cliente
+>>>>>>> 71870c6399a1d3606f4469605a9253b70cf96d4a
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
