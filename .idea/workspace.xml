@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -8,6 +12,11 @@
     </list>
 =======
     <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
+>>>>>>> classe-cliente
+=======
+    <list default="true" id="d58038cc-48f4-4107-9639-8e17894aedd2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
 >>>>>>> classe-cliente
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +50,13 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Área de Trabalho/AULAS Germinaretech/Pasta Git/branches/git-branches&quot;,
 =======
     &quot;last_opened_file_path&quot;: &quot;C:/Users/alunotemp/OneDrive - Instituto Germinare/Anotações Aulas/Programação Orientada a Objetos/02-08 Aula Git/Branches/ClasseCliente/Git-Branches&quot;,
+<<<<<<< HEAD
+>>>>>>> classe-cliente
+=======
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
 >>>>>>> classe-cliente
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -60,6 +76,12 @@
 =======
       <workItem from="1678310822494" duration="553000" />
       <workItem from="1678315056754" duration="10000" />
+<<<<<<< HEAD
+>>>>>>> classe-cliente
+=======
+      <workItem from="1678917782289" duration="12000" />
+      <workItem from="1678917866282" duration="41000" />
+      <workItem from="1678917930513" duration="1426000" />
 >>>>>>> classe-cliente
     </task>
     <servers />
