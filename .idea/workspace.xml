@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="" />
+    <list default="true" id="df520335-bb8b-45ff-a272-ca40c9480c8c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/NewMetodos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMetodos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMetodos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMetodos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMetodos/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMetodos/NewMetodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewMetodos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/newMetodo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newMetodo/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +69,7 @@
       <workItem from="1678315056754" duration="10000" />
       <workItem from="1678917782289" duration="12000" />
       <workItem from="1678917866282" duration="41000" />
-      <workItem from="1678917930513" duration="440000" />
+      <workItem from="1678917930513" duration="1034000" />
     </task>
     <servers />
   </component>
